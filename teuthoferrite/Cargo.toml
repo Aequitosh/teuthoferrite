@@ -1,0 +1,8 @@
+[package]
+name = "teuthoferrite"
+version = "0.1.0"
+edition = "2021"
+authors = ["Max R. Carrara"]
+repository = "https://github.com/Aequitosh/teuthoferrite"
+
+[dependencies]

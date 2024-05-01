@@ -3,6 +3,11 @@ name = "librados-ffi"
 version = "0.1.0"
 edition = "2021"
 authors = ["Max R. Carrara"]
+license = "AGPL-3.0-only"
+readme = "README.md"
 repository = "https://github.com/Aequitosh/teuthoferrite"
+description = """
+FFI bindings for librados.
+"""
 
 [dependencies]

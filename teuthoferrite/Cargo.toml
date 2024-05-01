@@ -3,6 +3,10 @@ name = "teuthoferrite"
 version = "0.1.0"
 edition = "2021"
 authors = ["Max R. Carrara"]
+license = "AGPL-3.0-only"
 repository = "https://github.com/Aequitosh/teuthoferrite"
+description = """
+All things Ceph in Rust.
+"""
 
 [dependencies]
